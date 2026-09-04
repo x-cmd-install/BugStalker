@@ -1,11 +1,13 @@
 about:
-  description: Rust debugger for Linux x86-64
+  description:
+  |
+    Rust debugger for Linux x86-64
   license: MIT
   homepage: 
   head: 2938fe7
   archived: false
   latestVersion: v0.4.8
-  collectedAt: 2026-09-04T02:18:07Z
+  collectedAt: 2026-09-04T19:19:51Z
 timeline:
   created: 2022-12-19
   lastCommit: 2026-08-21
@@ -13,10 +15,10 @@ timeline:
 popularity:
   star: 1377
   watcher: 16
-  fork: 33
+  fork: 32
   release: 28
   contributor: 14
-  pullRequest: 3
+  pullRequest: 94
   issue: 78
 language:
   Rust: 1729242
@@ -28,7 +30,7 @@ language:
   Makefile: 2034
   CSS: 1798
   Shell: 10
-totalLine: 1857091
+totalBytes: 1857091
 recent:
   last30d:
     since: 2026-08-05
@@ -37,7 +39,15 @@ recent:
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 2
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 0
   last90d:
     since: 2026-06-06
     release: 2
@@ -45,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 0
-    commit: 6
+    commit: 0
   last180d:
     since: 2026-03-08
     release: 5
@@ -53,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 7
     openIssue: 1
-    commit: 18
+    commit: 0
   last360d:
     since: 2025-09-09
     release: 12
@@ -61,4 +71,22 @@ recent:
     openPR: 0
     closedIssue: 22
     openIssue: 6
-    commit: 120
+    commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 21
+    mergedPR: 67
+    openPR: 1
+    closedIssue: 46
+    openIssue: 13
+    commit: 236
+total:
+  release: 28
+  mergedPR: 91
+  openPR: 1
+  closedIssue: 64
+  openIssue: 14
+  commit: 624
+---
+---
+
