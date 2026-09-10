@@ -21,11 +21,10 @@ x install BugStalker
 
 - **Latest**: `v0.4.8` (2026-08-22)
 - **Last commit**: 2026-08-21
-- **Published**: 2026-08-22T09:09:40Z
 
 ## Popularity
 
-- **Stars**: 1,404 · **Forks**: 32 · **Open issues**: 78 · **Contributors**: 14
+- **Stars**: 1,405 · **Forks**: 32 · **Open issues**: 78 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -56,8 +55,8 @@ Total: **67,236** lines of code across **269** files in the top 5 languages.
 Install metadata for BugStalker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `BugStalker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/BugStalker.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/BugStalker.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:58:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:34:04Z._
