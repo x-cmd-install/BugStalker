@@ -36,22 +36,22 @@ Total: **67,243** lines of code across **269** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,423 · **Forks**: 32 · **Open issues**: 79 · **Contributors**: 14
+- **Stars**: 1,424 · **Forks**: 32 · **Open issues**: 80 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 65 · **Open issues**: 14 · **Commits**: 626
+- **Releases**: 29 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 65 · **Open issues**: 15 · **Commits**: 626
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 1 | 0 | 1 | 0 | 2 |
-| last60d | 2026-08-12 | 2 | 2 | 0 | 2 | 0 | 4 |
-| 90d | 2026-07-13 | 3 | 4 | 0 | 4 | 0 | 8 |
-| last180d | 2026-04-14 | 5 | 7 | 0 | 6 | 1 | 11 |
-| 360d | 2025-10-16 | 12 | 31 | 0 | 19 | 6 | 100 |
-| last720d | 2024-10-21 | 21 | 66 | 0 | 45 | 12 | 233 |
+| 30d | 2026-09-12 | 1 | 1 | 0 | 1 | 1 | 2 |
+| last60d | 2026-08-13 | 2 | 2 | 0 | 2 | 1 | 4 |
+| 90d | 2026-07-14 | 3 | 4 | 0 | 3 | 1 | 8 |
+| last180d | 2026-04-15 | 5 | 7 | 0 | 6 | 2 | 11 |
+| 360d | 2025-10-17 | 12 | 31 | 0 | 19 | 7 | 100 |
+| last720d | 2024-10-22 | 21 | 66 | 0 | 45 | 13 | 233 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for BugStalker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:46:49Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:07:44Z._
