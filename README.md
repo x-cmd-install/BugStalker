@@ -46,12 +46,12 @@ Total: **67,243** lines of code across **269** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 1 | 0 | 1 | 1 | 2 |
-| last60d | 2026-08-15 | 2 | 2 | 0 | 2 | 1 | 4 |
-| 90d | 2026-07-16 | 3 | 4 | 0 | 3 | 1 | 8 |
-| last180d | 2026-04-17 | 5 | 7 | 0 | 5 | 2 | 11 |
-| 360d | 2025-10-19 | 12 | 31 | 0 | 19 | 7 | 100 |
-| last720d | 2024-10-24 | 21 | 66 | 0 | 45 | 13 | 233 |
+| 30d | 2026-09-15 | 1 | 1 | 0 | 1 | 1 | 2 |
+| last60d | 2026-08-16 | 2 | 2 | 0 | 2 | 1 | 4 |
+| 90d | 2026-07-17 | 3 | 4 | 0 | 3 | 1 | 8 |
+| last180d | 2026-04-18 | 5 | 6 | 0 | 5 | 2 | 11 |
+| 360d | 2025-10-20 | 12 | 31 | 0 | 19 | 7 | 100 |
+| last720d | 2024-10-25 | 21 | 66 | 0 | 45 | 13 | 233 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for BugStalker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:57:28Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:41:05Z._
