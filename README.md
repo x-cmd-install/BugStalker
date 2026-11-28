@@ -14,13 +14,13 @@ x install BugStalker
 
 ## Code insight
 
-Total: **67,243** lines of code across **269** files in the top 5 languages.
+Total: **67,255** lines of code across **269** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 43,992 | 671 | 5,108 | 199 |
+| Rust | 44,005 | 671 | 5,110 | 199 |
 | Json | 20,404 | 0 | 0 | 7 |
-| Python | 1,680 | 33 | 295 | 14 |
+| Python | 1,679 | 34 | 295 | 14 |
 | Toml | 491 | 15 | 56 | 42 |
 | JavaScript | 331 | 63 | 43 | 7 |
 
@@ -31,27 +31,27 @@ Total: **67,243** lines of code across **269** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.4.9` (2026-10-10)
-- **Last commit**: 2026-10-10
+- **Latest**: `v0.4.10` (2026-11-27)
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 1,432 · **Forks**: 34 · **Open issues**: 80 · **Contributors**: 14
+- **Stars**: 1,432 · **Forks**: 34 · **Open issues**: 81 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 65 · **Open issues**: 15 · **Commits**: 626
+- **Releases**: 30 · **Merged PRs**: 93 · **Open PRs**: 1 · **Closed issues**: 66 · **Open issues**: 15 · **Commits**: 628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 1 | 1 | 0 | 1 | 1 | 2 |
-| 90d | 2026-08-29 | 1 | 1 | 0 | 1 | 1 | 2 |
-| last180d | 2026-05-31 | 3 | 4 | 0 | 4 | 2 | 8 |
-| 360d | 2025-12-02 | 11 | 30 | 0 | 18 | 7 | 87 |
-| last720d | 2024-12-07 | 20 | 63 | 0 | 43 | 13 | 229 |
+| 30d | 2026-10-29 | 1 | 1 | 0 | 1 | 0 | 2 |
+| last60d | 2026-09-29 | 2 | 2 | 0 | 2 | 1 | 4 |
+| 90d | 2026-08-30 | 2 | 2 | 0 | 2 | 1 | 4 |
+| last180d | 2026-06-01 | 4 | 5 | 0 | 5 | 1 | 10 |
+| 360d | 2025-12-03 | 12 | 31 | 0 | 19 | 7 | 89 |
+| last720d | 2024-12-08 | 21 | 64 | 0 | 44 | 13 | 231 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for BugStalker lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:01:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:01:55Z._
