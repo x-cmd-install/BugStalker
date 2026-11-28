@@ -2,101 +2,101 @@ about:
   description: "Rust debugger for Linux x86-64"
   license: MIT
   homepage: 
-  head: 6817f52
+  head: 1bb349f
   archived: false
-  latestVersion: "v0.4.9"
-  latestRelease: "v0.4.9"
+  latestVersion: "v0.4.10"
+  latestRelease: "v0.4.10"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:01:40Z
+  collectedAt: 2026-11-28T08:01:48Z
 timeline:
   created: 2022-12-19
-  lastCommit: 2026-10-10
-  lastVersion: 2026-10-10
-  lastRelease: 2026-10-10
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
   lastPrerelease: 
 popularity:
   star: 1432
   watcher: 15
   fork: 34
-  release: 29
+  release: 30
   contributor: 14
-  pullRequest: 95
-  issue: 80
+  pullRequest: 96
+  issue: 81
 language:
-  Rust: 1729642
-  Python: 75731
-  MDX: 29496
+  Rust: 1730232
+  Python: 75733
+  MDX: 29559
   JavaScript: 12838
   Nix: 3336
   TypeScript: 2669
   Makefile: 2034
   CSS: 1798
   Shell: 10
-totalBytes: 1857554
+totalBytes: 1858209
 recent:
   last30d:
-    since: 2026-10-28
-    release: 0
-    mergedPR: 0
+    since: 2026-10-29
+    release: 1
+    mergedPR: 1
     openPR: 0
-    closedIssue: 0
+    closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 2
   last60d:
-    since: 2026-09-28
-    release: 1
-    mergedPR: 1
+    since: 2026-09-29
+    release: 2
+    mergedPR: 2
     openPR: 0
-    closedIssue: 1
+    closedIssue: 2
     openIssue: 1
-    commit: 2
+    commit: 4
   last90d:
-    since: 2026-08-29
-    release: 1
-    mergedPR: 1
+    since: 2026-08-30
+    release: 2
+    mergedPR: 2
     openPR: 0
-    closedIssue: 1
+    closedIssue: 2
     openIssue: 1
-    commit: 2
+    commit: 4
   last180d:
-    since: 2026-05-31
-    release: 3
-    mergedPR: 4
+    since: 2026-06-01
+    release: 4
+    mergedPR: 5
     openPR: 0
-    closedIssue: 4
-    openIssue: 2
-    commit: 8
+    closedIssue: 5
+    openIssue: 1
+    commit: 10
   last360d:
-    since: 2025-12-02
-    release: 11
-    mergedPR: 30
+    since: 2025-12-03
+    release: 12
+    mergedPR: 31
     openPR: 0
-    closedIssue: 18
+    closedIssue: 19
     openIssue: 7
-    commit: 87
+    commit: 89
   last720d:
-    since: 2024-12-07
-    release: 20
-    mergedPR: 63
+    since: 2024-12-08
+    release: 21
+    mergedPR: 64
     openPR: 0
-    closedIssue: 43
+    closedIssue: 44
     openIssue: 13
-    commit: 229
+    commit: 231
 total:
-  release: 29
-  mergedPR: 92
+  release: 30
+  mergedPR: 93
   openPR: 1
-  closedIssue: 65
+  closedIssue: 66
   openIssue: 15
-  commit: 626
+  commit: 628
 ---
 path: /home/runner/.x-repo/github.com/godzie44/BugStalker
-collectedAt: 2026-11-27T09:01:43Z
+collectedAt: 2026-11-28T08:01:51Z
 loc:
   Rust:
-    code: 43992
+    code: 44005
     comments: 671
-    blanks: 5108
+    blanks: 5110
     files: 199
   Json:
     code: 20404
@@ -104,8 +104,8 @@ loc:
     blanks: 0
     files: 7
   Python:
-    code: 1680
-    comments: 33
+    code: 1679
+    comments: 34
     blanks: 295
     files: 14
   Toml:
@@ -150,8 +150,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 880
-    blanks: 431
+    comments: 883
+    blanks: 434
     files: 16
   Text:
     code: 0
@@ -159,11 +159,11 @@ loc:
     blanks: 0
     files: 2
 total:
-  code: 67400
-  comments: 3237
-  blanks: 6384
+  code: 67412
+  comments: 3241
+  blanks: 6389
   files: 300
 ---
 
 ---
-{"id":408973380,"author":{"login":"godzie44","id":17674942,"node_id":"MDQ6VXNlcjE3Njc0OTQy","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIpH78M4YYHBE","tag_name":"v0.4.9","target_commitish":"master","name":"v0.4.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-10-10T13:16:04Z","updated_at":"2026-10-10T13:35:39Z","published_at":"2026-10-10T13:35:39Z","assets":[],"body":"## What's Changed\r\n### Added\r\n\r\n- debugger: added support for rustc 1.99\r\n"}
+{"id":460784507,"author":{"login":"godzie44","id":17674942,"node_id":"MDQ6VXNlcjE3Njc0OTQy","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOIpH78M4bdwN7","tag_name":"v0.4.10","target_commitish":"master","name":"v0.4.10","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-27T15:15:35Z","updated_at":"2026-11-27T15:36:10Z","published_at":"2026-11-27T15:36:10Z","assets":[],"body":"## What's Changed\r\n### Added\r\n\r\n- debugger: added support for rustc 1.100\r\n"}

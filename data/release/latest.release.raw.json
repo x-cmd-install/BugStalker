@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/godzie44/BugStalker/releases/408973380",
-  "assets_url": "https://api.github.com/repos/godzie44/BugStalker/releases/408973380/assets",
-  "upload_url": "https://uploads.github.com/repos/godzie44/BugStalker/releases/408973380/assets{?name,label}",
-  "html_url": "https://github.com/godzie44/BugStalker/releases/tag/v0.4.9",
-  "id": 408973380,
+  "url": "https://api.github.com/repos/godzie44/BugStalker/releases/460784507",
+  "assets_url": "https://api.github.com/repos/godzie44/BugStalker/releases/460784507/assets",
+  "upload_url": "https://uploads.github.com/repos/godzie44/BugStalker/releases/460784507/assets{?name,label}",
+  "html_url": "https://github.com/godzie44/BugStalker/releases/tag/v0.4.10",
+  "id": 460784507,
   "author": {
     "login": "godzie44",
     "id": 17674942,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOIpH78M4YYHBE",
-  "tag_name": "v0.4.9",
+  "node_id": "RE_kwDOIpH78M4bdwN7",
+  "tag_name": "v0.4.10",
   "target_commitish": "master",
-  "name": "v0.4.9",
+  "name": "v0.4.10",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-10T13:16:04Z",
-  "updated_at": "2026-10-10T13:35:39Z",
-  "published_at": "2026-10-10T13:35:39Z",
+  "created_at": "2026-11-27T15:15:35Z",
+  "updated_at": "2026-11-27T15:36:10Z",
+  "published_at": "2026-11-27T15:36:10Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/godzie44/BugStalker/tarball/v0.4.9",
-  "zipball_url": "https://api.github.com/repos/godzie44/BugStalker/zipball/v0.4.9",
-  "body": "## What's Changed\r\n### Added\r\n\r\n- debugger: added support for rustc 1.99\r\n"
+  "tarball_url": "https://api.github.com/repos/godzie44/BugStalker/tarball/v0.4.10",
+  "zipball_url": "https://api.github.com/repos/godzie44/BugStalker/zipball/v0.4.10",
+  "body": "## What's Changed\r\n### Added\r\n\r\n- debugger: added support for rustc 1.100\r\n"
 }
